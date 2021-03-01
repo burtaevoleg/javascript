@@ -8,14 +8,21 @@ module.exports = {
     './rules/es23',
     './rules/imports232',
     './rules/strict',
+    './rules/imports',
+    './rules/rules',
+    './modules/rules'
   ].map(require.resolve),
   parserOptions: {
     ecmaVersion: 2000003,
     sourceType: 'class',
+    options: null
   },
   rules: {},
   method: {
     add: 'method'
+  },
+  objects: {
+    object: null
   }
 };
 
