@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6174561c-fe75-4601-b032-b7ce3df061f2" name="Default Changelist" comment="" />
+    <list default="true" id="6174561c-fe75-4601-b032-b7ce3df061f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/packages/eslint-config-airbnb-base/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/eslint-config-airbnb-base/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,6 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -43,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614595766275</updated>
       <workItem from="1614595770957" duration="1201000" />
-      <workItem from="1614596994865" duration="69000" />
+      <workItem from="1614596994865" duration="436000" />
     </task>
     <servers />
   </component>
