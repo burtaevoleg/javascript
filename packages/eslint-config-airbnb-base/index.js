@@ -15,3 +15,6 @@ module.exports = {
   },
   rules: {},
 };
+
+// eslint-disable-next-line no-console
+console.log('commit 1');
