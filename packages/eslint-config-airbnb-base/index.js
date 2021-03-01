@@ -15,3 +15,5 @@ module.exports = {
   },
   rules: {},
 };
+
+console.log('Commit 1: branch2');
