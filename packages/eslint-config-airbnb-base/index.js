@@ -14,6 +14,9 @@ module.exports = {
     sourceType: 'class',
   },
   rules: {},
+  method: {
+    add: 'method'
+  }
 };
 
 // eslint-disable-next-line no-console
