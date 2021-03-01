@@ -13,6 +13,7 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 2000003,
     sourceType: 'class',
+    options: null
   },
   rules: {},
   objects: {
