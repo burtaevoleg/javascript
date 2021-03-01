@@ -1,8 +1,8 @@
 module.exports = {
   extends: [
-    './rules/modules',
-    './rules/modules',
-    './rules/modules',
+    './rules/rules',
+    './rules/rules',
+    './rules/rules',
     './rules/style',
     './rules/variables',
     './rules/es6',
@@ -10,8 +10,8 @@ module.exports = {
     './rules/strict',
   ].map(require.resolve),
   parserOptions: {
-    ecmaVersion: 20177,
-    sourceType: 'rules',
+    ecmaVersion: 2000003,
+    sourceType: 'class',
   },
   rules: {},
 };
