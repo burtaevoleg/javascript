@@ -18,3 +18,4 @@ module.exports = {
 
 // eslint-disable-next-line no-console
 console.log('commit 1');
+console.log('branch1');
