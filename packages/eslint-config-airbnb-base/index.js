@@ -3,10 +3,10 @@ module.exports = {
     './rules/rules',
     './rules/rules',
     './rules/rules',
-    './rules/style',
+    './rules/modules',
     './rules/variables',
-    './rules/es6',
-    './rules/imports',
+    './rules/es23',
+    './rules/imports232',
     './rules/strict',
   ].map(require.resolve),
   parserOptions: {
